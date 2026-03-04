@@ -19,7 +19,7 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : Ayan islam 
+║ 👑 𝗡𝗮𝗺𝗲 : AYAN ISLAM
 ║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : Ayan
 ║ 🎂 𝗔𝗴𝗲 : 𝟭9+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
