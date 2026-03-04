@@ -6,7 +6,7 @@ module.exports.config = {
     name: "help",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "SHAHADAT SAHU",
+    credits: "AYAN ISLAM",
     description: "Shows all commands with details",
     commandCategory: "system",
     usages: "[command name/page number]",
@@ -22,17 +22,12 @@ module.exports.languages = {
         "moduleInfo": `╭━━━━━━━━━━━━━━━━╮
 ┃ ✨ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐈𝐍𝐅𝐎 ✨
 ┣━━━━━━━━━━━┫
-┃ 🔖 Name: %1
-┃ 📄 Usage: %2
-┃ 📜 Description: %3
-┃ 🔑 Permission: %4
-┃ 👨‍💻 Credit: %5
-┃ 📂 Category: %6
-┃ ⏳ Cooldown: %7s
+┃ 🔖 Name: AYAN ISLAM
+┃ 📄 Usage: 19+
 ┣━━━━━━━━━━━━━━━━┫
-┃ ⚙ Prefix: %8
-┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ ⚙ Prefix: /
+┃ 🤖 Bot Name: MAKIMA
+┃ 👑 Owner: AYAN ISLAM
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -43,13 +38,6 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/sxSn1K3.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg"
-];
-
-
 function downloadImages(callback) {
     const randomUrl = helpImages[Math.floor(Math.random() * helpImages.length)];
     const filePath = path.join(__dirname, "cache", "help_random.jpg");
@@ -142,9 +130,9 @@ module.exports.run = function ({ api, event, args, getText }) {
 ┣━━━━━━━━━━━━━━━━┫
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
-┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ ⚙ Prefix: ${/
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "MAKIMA"}
+┃ 👑 Owner: AYAN ISLAM
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  
