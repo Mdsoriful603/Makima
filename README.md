@@ -1,10 +1,10 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+AYAN ISLAM🌺  
   
-❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
+❖A`AYAN ISLAMsengernger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+MAKIMA+CHAT+BOT+Fork!" />
 </p>
 
 <!-- Image -->
@@ -15,15 +15,15 @@
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- SHAHADAT CHAT BOT -->
+  <!-- AYAN ISLAM  CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    AYAN ISLAM CHAT BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By AYAN ISLAM
   </span>
 
 </p>
@@ -32,10 +32,10 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/AYAN ISLAM-MAKIMA-CHAT-BOT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars/AYAN ISLAM/-CHAT-BOT?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
   <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
@@ -102,12 +102,12 @@ Click the image above to watch the step-by-step tutorial on YouTube.
 <p align="center">
 
   <!-- ⭐ Fork Button -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/fork">
+  <a href="https://github.com/shahadat-sahu/AYAN ISLAM-CHAT-BOT/fork">
     <img src="https://img.shields.io/badge/FORK%20REPOSITORY-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo">
   </a>
 
   <!-- ⭐ Import Button -->
-  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/AYAN ISLAM-CHAT-BOT">
     <img src="https://img.shields.io/badge/IMPORT%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Import Repo">
   </a>
 
@@ -158,15 +158,10 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
+**Name:** `AYAN ISLAM`  
+**Nice Name:** `MAKIMA`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
-
-#### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+**Location:** `Dhaka keranigonj`
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -184,7 +179,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 <p align="center">
   <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?stfor-the-badgeadge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://m.me/100044713412032">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
@@ -216,4 +211,4 @@ __________
   <a href="https://youtube.com/@scb-community"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
-**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+**I hope you enjoy my fork! Thank you for supporting the cyber chat bot communityA
