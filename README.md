@@ -8,9 +8,7 @@ AYAN ISLAM🌺
 </p>
 
 <!-- Image -->
-<p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
-</p>
+https://photos.app.goo.gl/6RvDKtqEVgB2J2dGA
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
