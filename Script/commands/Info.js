@@ -45,7 +45,8 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : AYAN ISLAM
-├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +8801824400079
+├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 
+│ +8801824400079
 │
 │
 ╰───────⭓
